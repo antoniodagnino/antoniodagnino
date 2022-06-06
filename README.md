@@ -2,7 +2,7 @@
 #### I'm Antonio Jose!   
 
 👨‍💻 I’m currently working as a <b>General Field Engineer</b> at <b>Schlumberger</b>.\
-🔭:oil_drum: I’m currently working in Forecasting Models and Data Visualization dashboards for Oil & Energy Industry
+🔭 I’m currently working in Forecasting Models and Data Visualization dashboards for Oil & Energy Industry:oil_drum:
 🌱 I’m currently learning more about data\ 
 
 **Languages and Tools:**
